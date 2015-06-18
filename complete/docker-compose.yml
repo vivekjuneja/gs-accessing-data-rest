@@ -6,4 +6,4 @@ web:
    - "8080:8080"
 
 webdb:
- image: mysql
+ image: 10.52.175.232:5000/mysql
